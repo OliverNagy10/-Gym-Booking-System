@@ -2,7 +2,7 @@
 
 The goal of this project is to develop a Gym booking and management system with a focus on implementing architectural and design pattern. The system allows users to make reservations and bookings , while providing management and admins with the ability to manage user information, memberships, and activities/classes.
 
-# [View Report]((https://github.com/OliverNagy10/-Gym-Booking-System/blob/main/CS4125%20Project%20Report%20MAIN.pdf)
+# [View Report](https://github.com/OliverNagy10/-Gym-Booking-System/blob/main/CS4125%20Project%20Report%20MAIN.pdf)
 ##  Contents
 - [Narrative Description](#narrative-description)
 - [Software Lifecycle Model](#software-lifecycle-model)
