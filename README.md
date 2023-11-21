@@ -41,7 +41,7 @@ IApplied the Decorator pattern to add additional benefits to different types of 
 
 ## Visualizations of Version Control
 
-Utilized Github for version control, creating branches for each change and naming them appropriately. You can find the project's Github repository [here](https://github.com/deLongueHarry/CS4125Proj22), offering transparency and traceability.
+Utilized Github for version control, creating branches for each change and naming them appropriately.
 
 ## Added Value
 
